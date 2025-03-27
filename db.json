@@ -114,6 +114,7 @@
     {
         "id": "11",
         "name": "Octopus",
+        "type":"Marine",
         "image": "https://images.pexels.com/photos/3046629/pexels-photo-3046629.jpeg?auto=compress&cs=tinysrgb&w=600",
         "facts": [
         "Has tenticles",
